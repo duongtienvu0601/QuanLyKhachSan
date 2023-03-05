@@ -1,1 +1,1 @@
-# QuanLyKhachSan_WPF_C-
+Quan Ly Khach San
